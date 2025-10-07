@@ -1,0 +1,10 @@
+torch
+transformers
+accelerate
+datasets
+bitsandbytes
+peft
+trl
+trl-reward-model
+trl-reward-model-hub
+trl-reward-model-hub-hub
